@@ -1,0 +1,20 @@
+body{
+    color:#414141;
+    font-size: 1.1rem;
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: 300;
+}
+a{
+    color: #009ee0;
+}
+header{
+    background-color: #009ee0;
+    height: 5.25rem;
+}
+.nav-link{
+    color: aliceblue;
+}
+.logo{
+   max-height: 80px; 
+}
+
